@@ -5,7 +5,7 @@
 
     .controller('DIController', DIController);
 
-    function DIController ($scope, $filter, $injector) {  // Injector is used internally by ANgulay JS
+    function DIController ($scope, $filter, $injector) {  // Injector is used internally by Angular JS
         $scope.name = "Yaakov";
 
 
